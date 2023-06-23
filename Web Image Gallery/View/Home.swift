@@ -3,7 +3,7 @@
 //  animations-objects
 //
 //  Created by Mathieu Moutarde on 23/06/2023.
-//
+//In this view we configure the display of the global gallery using the asynch method configured in the ImageLoader model which manages the error possibly in the loading of the image by a URL.
 
 import SwiftUI
 
