@@ -35,3 +35,10 @@ This is a rather nice slider with a color gradient background, which allows you 
 This time we start with an animated shape created directly with SwiftUI. The latter follows a breathing type pattern that will make the shape grow for a few seconds and then maintain this state before shrinking to indicate the inspiration and expiration that the user must perform. In addition to this, there is also a haptic feedback system emitting more vibrations when the shape grows, they are lighter when it shrinks. I left some Mark in the code to help you understand it better.
 
 <img src="assets/Simulator Screen Recording - iPhone 14 Pro - 2023-06-27 at 21.59.26.gif" width="200" height="auto">
+
+<h3>🏞️ Slide</h3>
+<hr>
+<p>The slide is, as its name suggests, an image carousel very easy to implement and which offers a kind of reduction and extension of the width of an image when scrolling through the carousel. This is made possible thanks to several GeometryReaders.</p>
+
+<img src="assets/Simulator Screen Recording - iPhone 14 Pro - 2023-07-08 at 16.16.20.gif" width="200" height="auto">
+
